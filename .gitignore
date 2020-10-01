@@ -1,0 +1,4 @@
+node_modules
+template/demo_1/node_modules
+yarn.lock
+.vscode/settings.json
